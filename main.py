@@ -53,5 +53,5 @@ while True:
         connection.sendmail(
             from_addr=EMAIL,
             to_addrs=EMAIL,
-            msg='Subject:Look Up👆\n\nThe ISS is above you in the sky.',
+            msg='Subject:Look Up👆\n\nThe ISS is overhead!',
         )
